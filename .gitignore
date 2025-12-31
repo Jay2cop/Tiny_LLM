@@ -1,1 +1,7 @@
-TinyStories-train.txt
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.env
+*.pt
+checkpoints/
